@@ -1,2 +1,2 @@
 # Accountingbook
-An accounting book for iPhone
+This is a simple accounting Book app used for iPhone model 8 or higher.
